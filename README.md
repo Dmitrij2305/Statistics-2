@@ -1,1 +1,1 @@
-![statistics](img/statistics.jpg)
+![Statistics-2](img/statistics.jpg)
